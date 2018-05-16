@@ -1,0 +1,4 @@
+#Wed May 09 14:30:58 WIB 2018
+base.0=/home/aqor/AndroidStudioProjects/Pertemuan7Broadcast/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
